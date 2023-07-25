@@ -1,0 +1,11 @@
+Kerala online shopping store
+
+about :
+
+references	:	https://w3layouts.com
+		https://stackoverflow.com
+		https://www.geeksforgeeks.org
+		https://www.javatpoint.com
+
+		Most of the design (CSS scripts) code lines and basic html tags are downloaded/copied from the above mentioned websites.			
+
